@@ -1,0 +1,35 @@
+{
+  "name": "react-navs",
+  "version": "1.0.0",
+  "description": "simple responsive navigation options in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crc442/react-navs.git"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "component",
+    "navbar",
+    "navigation",
+    "nav"
+  ],
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "author": "Chirag Chauhan <crc442@nyu.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crc442/react-navs/issues"
+  },
+  "homepage": "https://github.com/crc442/react-navs#readme",
+  "devDependencies": {
+    "react-fatigue-dev": "github:crc442/react-fatigue-dev"
+  }
+}
