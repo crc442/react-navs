@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
 
 * {
   box-sizing: border-box;
@@ -6,5 +7,5 @@
 body {
   margin: 0;
   padding: 50px;
-  font: 15px/1.6 Helvetica, Arial, sans-serif;
+  font: 15px/1.6 'Inconsolata', monospace;
 }

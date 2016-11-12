@@ -1,5 +1,3 @@
-import React from 'react'
+export default 'Navs'
 
-export default function() {
-	return <p>Hello</p>
-}
+export ScrollNav from './components/ScrollNav'
